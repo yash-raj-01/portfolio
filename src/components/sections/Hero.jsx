@@ -139,3 +139,5 @@ function FloatChip({ text, sub, pos, depth, index, mx, my }) {
       </motion.div>
     </motion.div>);
 }
+
+// Billboard parallax motion spring curve
