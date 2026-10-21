@@ -107,3 +107,5 @@ function NavLink({ label, active, onClick }) {
       {active && <motion.span layoutId="nav-underline" className="absolute -bottom-1.5 left-0 right-0 h-[2px] rounded bg-crimson"/>}
     </button>);
 }
+
+// Mobile drawer touch interaction responsiveness
