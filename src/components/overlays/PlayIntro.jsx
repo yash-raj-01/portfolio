@@ -140,3 +140,5 @@ export default function PlayIntro({ onClose }) {
       </div>
     </motion.div>);
 }
+
+// Keyboard arrow and tap zone scrub support
