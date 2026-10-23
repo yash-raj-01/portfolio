@@ -151,3 +151,5 @@ export function ResumeSheet() {
       </div>
     </article>);
 }
+
+// Sheet layout and typography scale adjustments
