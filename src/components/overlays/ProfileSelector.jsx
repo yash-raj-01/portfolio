@@ -46,3 +46,5 @@ export default function ProfileSelector({ onPick }) {
       </p>
     </motion.div>);
 }
+
+// Persona selection micro-interactions
