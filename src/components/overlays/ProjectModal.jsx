@@ -132,5 +132,3 @@ export default function ProjectModal({ project, onClose, onSwitch }) {
       </div>
     </motion.div>);
 }
-
-// Backdrop blur and spring easing transitions

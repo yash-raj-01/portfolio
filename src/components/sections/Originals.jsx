@@ -87,5 +87,3 @@ function RailOriginals({ onOpen }) {
       </motion.div>
     </div>);
 }
-
-// Smooth inertial horizontal touch scroll

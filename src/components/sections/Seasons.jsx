@@ -46,5 +46,3 @@ export default function Seasons() {
       </AnimatePresence>
     </>);
 }
-
-// Episode rail layout alignment

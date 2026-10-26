@@ -32,5 +32,3 @@ export default function TopPicks() {
       </div>
     </>);
 }
-
-// Top 10 rank badge elevations and hover transitions

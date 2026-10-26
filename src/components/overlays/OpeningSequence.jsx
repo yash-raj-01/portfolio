@@ -84,5 +84,3 @@ export default function OpeningSequence({ onDone }) {
       </button>
     </motion.div>);
 }
-
-// Cinematic timing intervals refined

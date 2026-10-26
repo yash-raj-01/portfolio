@@ -15,5 +15,3 @@ export default function Scene({ id, children, className = '' }) {
       {children}
     </motion.section>);
 }
-
-// Scene rendering performance optimized for 60fps
